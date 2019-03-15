@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1bb73dc-b535-462c-99f6-f7685a1d9811" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Assgnmnt1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assgnmnt1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assgn4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assgn4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PleaseWork" beforeDir="false" afterPath="$PROJECT_DIR$/../../PleaseWork" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aaaaaaaaah" beforeDir="false" afterPath="$PROJECT_DIR$/../../aaaaaaaaah" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../qweqwe" beforeDir="false" afterPath="$PROJECT_DIR$/../../qweqwe" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/prnc/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/InhClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/OOP3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/qwerty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/POLO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/SquareTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/Violation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/Prncples/ViolationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/polo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/violetedPr/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/violetedPr/Cycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/violetedPr/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/SquarePer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/Shape1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/SquareArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Deli.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Square.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/ShapesForOthers.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/SquarePer.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/SquareArea.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Square.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/p.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Square.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="408" />
+    <option name="y" value="69" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552673272709" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.ac.cput.Prncples" />
+      <recent name="za.ac.cput.Chapter4Assignment" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="za.ac.cput.prncples.prnc" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="za.ac.cput.prncples.prnc" />
+      <recent name="za.ac.cput.Prncples" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SquareTest">
+    <configuration name="RectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationDesignConceptsAndPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Chapter4Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Chapter4Assignment" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Chapter4Assignment.RectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectTest.areaDel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationDesignConceptsAndPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Chapter4Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Chapter4Assignment" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Chapter4Assignment.RectTest" />
+      <option name="METHOD_NAME" value="areaDel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectTest.perDel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationDesignConceptsAndPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Chapter4Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Chapter4Assignment" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Chapter4Assignment.RectTest" />
+      <option name="METHOD_NAME" value="perDel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationDesignConceptsAndPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Chapter4Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Chapter4Assignment" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Chapter4Assignment.SquareTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest.weAreDel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApplicationDesignConceptsAndPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Chapter4Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Chapter4Assignment" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Chapter4Assignment.SquareTest" />
+      <option name="METHOD_NAME" value="weAreDel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prnc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="za.ac.cput.prncples.prnc.PrncApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SquareTest" />
+        <item itemvalue="JUnit.RectTest" />
+        <item itemvalue="JUnit.SquareTest.weAreDel" />
+        <item itemvalue="JUnit.RectTest.perDel" />
+        <item itemvalue="JUnit.RectTest.areaDel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1bb73dc-b535-462c-99f6-f7685a1d9811" name="Default Changelist" comment="" />
+      <created>1552567879943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552567879943</updated>
+      <workItem from="1552567887801" duration="2917000" />
+      <workItem from="1552638236402" duration="25036000" />
+      <workItem from="1552672169597" duration="1229000" />
+    </task>
+    <task id="LOCAL-00001" summary="edit does it">
+      <created>1552672637803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552672637803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RectTest_perDel - 2019.03.15 at 15h 44m 18s.xml">
+      <configuration name="RectTest.perDel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectTest_areaDel - 2019.03.15 at 15h 59m 37s.xml">
+      <configuration name="RectTest.areaDel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectTest_perDel - 2019.03.15 at 16h 00m 46s.xml">
+      <configuration name="RectTest.perDel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTest_weAreDel - 2019.03.15 at 16h 03m 17s.xml">
+      <configuration name="SquareTest.weAreDel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectTest - 2019.03.15 at 16h 06m 02s.xml">
+      <configuration name="RectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTest - 2019.03.15 at 16h 07m 15s.xml">
+      <configuration name="SquareTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTest - 2019.03.15 at 16h 08m 08s.xml">
+      <configuration name="SquareTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectTest - 2019.03.15 at 16h 09m 22s.xml">
+      <configuration name="RectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectTest - 2019.03.15 at 19h 30m 35s.xml">
+      <configuration name="RectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTest - 2019.03.15 at 19h 30m 50s.xml">
+      <configuration name="SquareTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29182000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25223035" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3652803" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.31907308" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30981347" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3600713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.31907308" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit does it" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit does it" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/qwerty.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Prncples/ViolationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/Violation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/polo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/POLO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Prncples/Shape1.java" />
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/PrncApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Deli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/SquarePer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/ShapesForOthers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/p.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/SquareArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="method#setUp#0;class#SquareTest#0" />
+            <element signature="method#area#0;class#SquareTest#0" />
+            <element signature="method#per#0;class#SquareTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="method#area#0;class#RectTest#0" />
+            <element signature="method#per#0;class#RectTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
