@@ -1,4 +1,4 @@
-package za.ac.cput.violetedPr;
+package violetedPr;
 
 public class Cycle implements Shapes{
     double x=123;double y=321;

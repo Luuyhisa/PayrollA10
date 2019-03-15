@@ -1,5 +1,5 @@
-package za.ac.cput.violetedPr;
-
+package violetedPr;
+//Interface Segregation Principle violated
 public class Square implements Shapes {
     //Single Responsibility Principle Violation
     double x=123;double y=321;

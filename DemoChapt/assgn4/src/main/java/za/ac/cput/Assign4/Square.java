@@ -1,4 +1,4 @@
-package za.ac.cput.Chapter4Assignment;
+package za.ac.cput.Assign4;
 
 public class Square extends Shapes{
 private  double inSide;

@@ -1,24 +1,23 @@
-package za.ac.cput.Chapter4Assignment;
+package za.ac.cput.Assign4;
 
-public class Square extends Shapes{
-private  double inSide;
+public class Rect extends Shapes{
+private double width = 12;
+private double length = 21;
+
     //@Override
-    double area() {
-          inSide =25;
-        double outPut=inSide* 4;
-        return outPut;
+    double area() {double outPut=width * length;
+   return outPut;
     }
+
     //@Override
     double per() {
-         inSide =25;
-        double outPut=inSide*inSide;
+        double outPut=((2*width) + (length*2));
         return outPut;
     }
-
     Shapes grand = new Shapes();
     void grandShape(){
-        grand.WeAreShapes();
-    }
+    grand.WeAreShapes();
+     }
     Shapes areaGrand = new Shapes();
     void grandArea(){
         areaGrand.area();
@@ -27,5 +26,6 @@ private  double inSide;
     void grandper(){
         perGrand.per();
     }
-
 }
+
+

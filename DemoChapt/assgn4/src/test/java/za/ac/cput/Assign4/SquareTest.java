@@ -1,9 +1,8 @@
-package za.ac.cput.Chapter4Assignment;
+package za.ac.cput.Assign4;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
 public class SquareTest {
     Shapes polly[]=new Shapes[2];
     @Before

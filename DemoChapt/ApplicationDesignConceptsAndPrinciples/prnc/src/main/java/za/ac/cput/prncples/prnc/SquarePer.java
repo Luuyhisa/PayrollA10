@@ -1,4 +1,4 @@
-package za.ac.cput.Prncples;
+package za.ac.cput.prncples.prnc;
 
 public class SquarePer extends Square {
     //Single Responsibility Principle Resolved

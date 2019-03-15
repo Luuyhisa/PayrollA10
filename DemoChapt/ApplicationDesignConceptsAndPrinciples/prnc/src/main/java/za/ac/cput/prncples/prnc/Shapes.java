@@ -1,7 +1,6 @@
-package za.ac.cput.Prncples;
+package za.ac.cput.prncples.prnc;
 
-public interface Shapes {
-    public  double Area();
-    public  double par();
+public interface Shapes extends p {//OCP violated
+
 }
 

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="660ef030-f09b-4c28-9372-30a8283b3b95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assgn4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Deli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/POLO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/RectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assgnmnt1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assgnmnt1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/violetedPr/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/violetedPr/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/violetedPr/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/violetedPr/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/violetedPr/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/violetedPr/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/ShapesForOthers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/ShapesForOthers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/SquareArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/SquareArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/SquarePer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/SquarePer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/p.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/prnc/src/main/java/za/ac/cput/prncples/prnc/p.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/main/java/za/ac/cput/Chapter4Assignment/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/main/java/za/ac/cput/Chapter4Assignment/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/main/java/za/ac/cput/Chapter4Assignment/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/main/java/za/ac/cput/Chapter4Assignment/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/test/java/za/ac/cput/Chapter4Assignment/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApplicationDesignConceptsAndPrinciples/src/test/java/za/ac/cput/Chapter4Assignment/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PleaseWork" beforeDir="false" afterPath="$PROJECT_DIR$/../../PleaseWork" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aaaaaaaaah" beforeDir="false" afterPath="$PROJECT_DIR$/../../aaaaaaaaah" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../qweqwe" beforeDir="false" afterPath="$PROJECT_DIR$/../../qweqwe" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/seven/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/PrncApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/p.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/Cycle.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/Square.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/Cycler.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/ShapesForOthers.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/SquareArea.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/violetedPr/Shapes.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/violetedPr/Cycle.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seven/src/main/java/violetedPr/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/POLO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/POLO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/AppTest.java" />
+        <option value="$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/SquareArea.java" />
+        <option value="$PROJECT_DIR$/seven/src/main/java/violetedPr/Square.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assgn4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assgn4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assgn4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assgn4" type="462c0819:PsiDirectoryNode" />
+              <item name="seven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assgn4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assgn4" type="462c0819:PsiDirectoryNode" />
+              <item name="seven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assgn4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assgn4" type="462c0819:PsiDirectoryNode" />
+              <item name="seven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assgn4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assgn4" type="462c0819:PsiDirectoryNode" />
+              <item name="seven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assgn4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assgn4" type="462c0819:PsiDirectoryNode" />
+              <item name="seven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="violetedPr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552672505849" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lungisa\IdeaProjects\DemoChapt\assgn4\seven\src\main\java" />
+      <recent name="C:\Users\Lungisa\IdeaProjects\DemoChapt\assgn4\seven\src\main\java\za\ac\cput\assgn3\seven" />
+      <recent name="C:\Users\Lungisa\IdeaProjects\DemoChapt\assgn4\src\test\java\za\ac\cput\Assign4" />
+      <recent name="C:\Users\Lungisa\IdeaProjects\DemoChapt\assgn4\src\main\java\za\ac\cput\Assign4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SquareTest">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assgn4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assign4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assign4" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assign4.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assgn4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assign4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assign4" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assign4.RectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assgn4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assign4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assign4" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assign4.SquareTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SevenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seven" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="za.ac.cput.assgn3.seven.SevenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SquareTest" />
+        <item itemvalue="JUnit.RectTest" />
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="660ef030-f09b-4c28-9372-30a8283b3b95" name="Default Changelist" comment="" />
+      <created>1552671710828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552671710828</updated>
+      <workItem from="1552671715856" duration="862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest - 2019.03.15 at 19h 45m 13s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectTest - 2019.03.15 at 19h 45m 47s.xml">
+      <configuration name="RectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTest - 2019.03.15 at 19h 47m 08s.xml">
+      <configuration name="SquareTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="862000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17761557" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32911393" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3244207" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Square.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Deli.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/Square.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/Deli.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/Rect.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/POLO.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/RectTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Assign4/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/Rect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Assign4/POLO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/SquarePer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/PrncApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/p.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/Square.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/Cycler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/ShapesForOthers.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/za/ac/cput/assgn3/seven/SquareArea.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/violetedPr/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/violetedPr/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/src/main/java/violetedPr/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
