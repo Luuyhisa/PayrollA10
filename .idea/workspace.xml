@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552674192485</updated>
-      <workItem from="1552674199342" duration="272000" />
+      <workItem from="1552674199342" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="fst com">
       <created>1552674321292</created>
@@ -94,11 +94,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272000" />
+    <option name="totallyTimeSpent" value="614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
